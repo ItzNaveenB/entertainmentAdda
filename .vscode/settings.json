@@ -1,5 +1,8 @@
 {
     "marquee.widgets.npm-stats.packageNames": [
         "entertainment"
-    ]
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
